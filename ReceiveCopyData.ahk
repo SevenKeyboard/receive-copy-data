@@ -1,4 +1,5 @@
-﻿;==============================================================
+﻿#Requires AutoHotkey v1.1.17+
+;==============================================================
 ; ReceiveCopyData — WM_COPYDATA dispatcher with dwData-to-callback binding
 ;
 ; GitHub: https://github.com/SevenKeyboard/receive-copy-data
